@@ -23,6 +23,6 @@ Microsoft Excel data tables
 
 Below is an example of running the specimen tracking system in Python.
 
-<img src="images/demo.png" width="700">
+<img src="images/img.png" width="700">
 
 The system logs specimen intake and chain-of-custody transfers between departments.
