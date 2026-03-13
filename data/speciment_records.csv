@@ -1,0 +1,6 @@
+specimen_id,patient_id,sample_type,received_time,status
+SP-001,PT-1001,FFPE Block,2026-03-01 08:02,Received
+SP-002,PT-1002,Glass Slide,2026-03-01 08:05,Routed
+SP-003,PT-1003,Fresh Tissue,2026-03-01 08:10,Processing
+SP-004,PT-1004,Glass Slide,2026-03-01 08:15,Stored
+SP-005,PT-1005,FFPE Block,2026-03-01 08:22,Testing
