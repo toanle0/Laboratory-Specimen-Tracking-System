@@ -1,32 +1,19 @@
-# Laboratory-Specimen-Tracking-System
-Designed a simulated laboratory accessioning workflow as part of a technical project to model how diagnostic laboratories track specimens through multiple processing stages.
+Laboratory Specimen Tracking System
 
-Tech Stack
+This project simulates a laboratory accessioning workflow used in diagnostic
+laboratories to track specimens through multiple processing stages.
 
-Language
+Features
 
-Python 3
+• Specimen intake and logging
+• Chain-of-custody tracking between departments
+• Database-backed specimen records
+• Quality control validation checks
+• Specimen lookup and workflow monitoring
 
-Data / Storage
+Technologies
 
-SQLite database
-
-CSV sample dataset
-
-Libraries
-
-pandas (data handling)
-
-sqlite3 (database)
-
-datetime (timestamp logging)
-
-Tools
-
-Microsoft Excel (initial data tables)
-
-Git / GitHub (version control)
-
-Optional
-
-matplotlib (QC charts)
+Python
+SQLite
+Pandas
+Microsoft Excel data tables
